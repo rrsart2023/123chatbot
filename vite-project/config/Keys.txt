@@ -1,0 +1,7 @@
+export REACT_APP_GOOGLE_PROJECT_ID='reactpageagenthostel-xgjh'
+export REACT_APP_DF_SESSION_ID='react-bot-session'
+export GOOGLE_APPLICATION_CREDENTIALS="/workspace/Chatbot-for-Website-with-React/vite-project/config/key.json"
+
+set GOOGLE_APPLICATION_CREDENTIALS='C:\Users\level\OneDrive\Pulpit\Chatbot-for-Website-with-React\copy\vite-project\config\key.json'
+set REACT_APP_DF_SESSION_ID='react-bot-session' 
+set REACT_APP_GOOGLE_PROJECT_ID='reactpageagenthostel-xgjh'
